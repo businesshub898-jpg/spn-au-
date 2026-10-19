@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-labelledby="title desc">
+  <title id="title">Intelligent agent core</title><desc id="desc">A luminous AI agent connected to trusted tools and information.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c36"/><stop offset="1" stop-color="#183b68"/></linearGradient><linearGradient id="glow" x2="1" y2="1"><stop stop-color="#65e5ff"/><stop offset="1" stop-color="#8a87ff"/></linearGradient><filter id="blur"><feGaussianBlur stdDeviation="24"/></filter></defs>
+  <rect width="960" height="640" rx="36" fill="url(#bg)"/><circle cx="470" cy="316" r="178" fill="#42c9ff" opacity=".12" filter="url(#blur)"/>
+  <g fill="none" stroke="#6edcf3" stroke-opacity=".48" stroke-width="3"><path d="M480 320 250 165M480 320 720 150M480 320 240 488M480 320 730 485M480 320 480 95M480 320 480 548"/></g>
+  <g fill="#132c4e" stroke="url(#glow)" stroke-width="5"><rect x="365" y="204" width="230" height="230" rx="54"/><circle cx="250" cy="165" r="35"/><circle cx="720" cy="150" r="35"/><circle cx="240" cy="488" r="35"/><circle cx="730" cy="485" r="35"/><circle cx="480" cy="95" r="35"/><circle cx="480" cy="548" r="35"/></g>
+  <g fill="#f5fbff"><circle cx="430" cy="300" r="13"/><circle cx="530" cy="300" r="13"/></g><path d="M427 355q53 49 106 0" fill="none" stroke="#8de9ff" stroke-width="9" stroke-linecap="round"/><path d="M480 204v-44M365 320h-43M595 320h43" stroke="#8de9ff" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#84e4ff"><circle cx="250" cy="165" r="8"/><circle cx="720" cy="150" r="8"/><circle cx="240" cy="488" r="8"/><circle cx="730" cy="485" r="8"/><circle cx="480" cy="95" r="8"/><circle cx="480" cy="548" r="8"/></g>
+</svg>
